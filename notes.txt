@@ -1,0 +1,21 @@
+* Highlight, page 2
+there is some evidence that when the number of tracked targets is reduced, the motion direction of objects can begin to play a role in tracking.
+
+* Highlight, page 2
+If performance were better in the motion preview condition, it would indicate that the motion in- formation was helpful
+
+* Highlight, page 3
+there is only a small amount of evidence for ex- trapolation during MOT through disruptions
+
+* Highlight, page 3
+To anticipate our results, these experiments did not reveal any substantial roles during MOT through occlusion for direction information, likely reappearance locations, or the visible structure of occluders; instead, tracking accuracy could be explained solely by the proximity of the disocclusion locations to the initial occlusion locations.
+
+* Highlight, page 10
+MOT through occlusion seems to rely on a simple heuristic based only on the proximity of reappear- ance locations to the objects’ last known preocclusion loca- tions
+
+* Highlight, page 10
+tracking is improved when objects reappear at those points along occluders’ far borders that are as close as possible to the initial occlusion locations— even when those locations are grossly inconsistent with the extrapolated trajectories
+
+* Highlight, page 11
+There are now multiple demonstrations that motion extrapolation plays at least some role in some types of tracking tasks. But the present results show that when observ- ers track four target objects, there is no evidence that motion extrapolation helps bridge the disruption caused by object occlusion.
+
