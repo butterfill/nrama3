@@ -12,8 +12,9 @@
 # FILENAME Is the name of bibtex file to get references and files from.
 # This should be created by exporting from Zotero, or should have the 
 #  pdf file name(s) is a colon-delimited field called 'file'.
-FILENAME = './lib.bib'
-_DB_URL = 'http://localhost:5984/'
+FILENAME = './lib3.bib'
+#_DB_URL = 'http://localhost:5984/'
+_DB_URL = 'http://notes.butterfill.com/'
 _DB_NAME = 'nrama'
 USER_ID = 'steve'
 PASSWORD = 'r4maqu3en'
